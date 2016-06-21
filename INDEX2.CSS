@@ -1,0 +1,114 @@
+
+html{
+	font-size: 16px;
+	height: 100%;
+}
+
+body{
+	background: url("http://cdn3.computerhoy.com/sites/computerhoy.com/files/styles/fullcontent/public/novedades/nintendo_nx_android.jpg?itok=tWVxSyPj");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font: 62.5% Helvetica,Tahoma, Arial, sana-serif;
+	height: 100%;
+}
+
+.container{
+	max-width: 1024;
+	width: 100%;
+	margin: 0 auto;
+}
+.nav-bar{
+	margin-bottom: 250px;
+
+}
+
+
+.nav-bar h1{
+	font-size: 2.5em;
+	color:red;
+	background-color:black;
+	display: inline-block;
+	border: 4px;
+	border-color: green;
+	border-style: solid;
+	padding: 10px 5x 10px 2px;
+
+}
+span{
+	display: inline-block;
+	width:  46%;
+	vertical-align: top;
+	font-family: Comic;
+	font-size: 2em;
+	color: blue;
+}
+span p{
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+span img{
+	width: 200;
+	margin-left: 300px;
+}
+
+
+footer p {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cuadro{
+	width: 30%;
+	display: inline-block;
+	height: 260px;
+	margin: 50px 0px 10px 10px;
+	font-size: 1.5em;
+	background-color: rgba(93,186,97,0.8);
+	border-radius:10px;
+	border: 5px solid rgba(93,186,97,1);
+
+}
+
+div div p {
+	text-align: center;
+	box-shadow: 0px 2px black;
+
+}
+.row {
+	
+	width: 400px;
+	
+	font-family: Verdana;
+	font-size: 0.8em;
+	color:#660066;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	border-radius: 15px;
+	text-shadow: 1px 1px #330033;
+}
+.col-md-1 {
+	width:100px;
+}
+.col-md-2{
+	width:200px;
+}
+form input[type="text"], input[type="password"]{
+	display: block;
+	width: 100%;
+	margin-bottom: 5px;
+
+}
